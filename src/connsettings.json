@@ -1,5 +1,5 @@
 ﻿{
     "ConnMySql": {
-        "DB": "Server=3.238.144.179;Uid=alabliuk;Pwd=B1@Admin1956;Database=demo;Connection Timeout=600;"
+        "DB": "Server=xxxxx;Uid=xxxxx;Pwd=xxxxx;Database=demo;Connection Timeout=600;"
     }
 }
